@@ -6,4 +6,4 @@ python:
   
 script: 
 
-  - python default.py
+  - python -m py_compile default.py
